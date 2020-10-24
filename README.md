@@ -1,3 +1,3 @@
 # hacktoberfest2020
 
-## test
+## this is a public repository
